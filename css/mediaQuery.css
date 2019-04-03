@@ -1,0 +1,44 @@
+/* Smart Phones And Tablets */
+
+@media (max-width: 767px){
+    /* Start Option Box*/
+    .option-box{
+        top: 100px;
+    }
+    .option-box .check-gear{
+        padding: 0;
+    }
+    /* End Option Box*/
+    /*Start Section Subscribe*/
+
+    .Subscribe button{
+        margin-top: 10px;
+        width: 300px;
+    }
+
+    /* End  Section Subscribe */
+    /* Start Section Footer */
+    .footer .workImage{
+        text-align: center;
+    }
+    /* End Section Footer */
+
+}
+
+/* Small Screen */
+
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+
+/* Medium Screen */
+
+@media (min-width: 992px) and (max-width: 1199px){
+
+}
+
+/* Large Screen*/
+
+@media (min-width:1200px){
+
+}

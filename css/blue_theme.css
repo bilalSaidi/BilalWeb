@@ -1,0 +1,43 @@
+/****  Start Blue Theme ****/
+.navbar-inverse .navbar-brand span,
+.about span,
+.testimonials span,
+.footer .copyright span,
+.footer h3
+{
+    color: #00bcd4
+}
+
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus,
+.carousel-indicators .active,
+.option-box .color-option ul li,
+.option-box .check-gear
+{
+    background-color: #00bcd4
+}
+
+
+.option-box .color-option,
+.option-box .check-gear
+{
+
+    border:4px solid #00bcd4
+}
+
+
+.dropdown-menu{
+    border-top:2px solid #00bcd4
+}
+
+
+
+
+
+
+
+/****  End  Blue Theme ****/

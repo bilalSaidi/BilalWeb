@@ -1,0 +1,44 @@
+/****  Start Default Theme ****/
+.navbar-inverse .navbar-brand span,
+.about span,
+.testimonials span,
+.footer .copyright span,
+.footer h3
+{
+    color: green;
+}
+
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus,
+.carousel-indicators .active,
+.option-box .color-option ul li,
+.option-box .check-gear
+{
+    background-color: green;
+}
+
+
+.option-box .color-option,
+.option-box .check-gear
+{
+
+    border:4px solid green
+}
+
+
+.dropdown-menu{
+    border-top:2px solid green;
+
+}
+
+
+
+
+
+
+
+/****  End  Default Theme ****/

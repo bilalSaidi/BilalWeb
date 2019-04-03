@@ -1,0 +1,60 @@
+body{
+    overflow: auto;
+}
+/* Start Page About */
+.bread-crumb{
+    margin-top: 53px ;
+    background-color:#f5f5f5 ;
+}
+.bread-crumb .breadcrumb{
+    padding: 5px 0px;
+    list-style: none;
+    background-color: #f5f5f5;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.aboutUs hr{
+    width: 70%;
+}
+.aboutUs img{
+    margin: auto;
+    margin-bottom: 15px;
+}
+.aboutUs img.thumbnail{
+    border-color: #e3e3e3;
+
+    background-color:#0f6777;
+}
+.aboutUs p{
+    line-height: 120%;
+    font-family: cursive,sans-serif;
+    margin-bottom: 25px;
+}
+.about-features p{
+    margin-bottom: 20px;
+}
+.question h1{
+    font-weight: bolder;
+    letter-spacing: -3px;
+    font-size: 62px;
+    margin-bottom: 40px;
+}
+.accordion-question .panel  a:after{
+    content: "\e113";
+    font-family: 'Glyphicons Halflings';
+    float: right;
+}
+.accordion-question  a.collapsed:after{
+    content: "\e114";
+    font-family: 'Glyphicons Halflings';
+    float: right;
+}
+
+
+
+
+.footer{
+    margin-top: 0;
+}
+/* End Page About*/
